@@ -1,19 +1,19 @@
 <label for="assets">Choose an asset type:</label>
-    <select name="assets" id="assets">
+    <select id="assets" name="assets">
         <optgroup label="AI Assets">
-            <option value="ai_asset1">AI Asset 1</Solutions>
-            <option value="ai_asset2">AI Asset 2</Tools & Scripts>
-            <option value="ai_asset3">AI Asset 3</Case-Based-Assets>
-            <option value="ai_asset4">AI Asset 4</Accelerators>
-            <option value="ai_asset5">AI Asset 5</Playbooks>
-            <option value="ai_asset6">AI Asset 6</Dashboards>
+            <option value="ai_asset1">AI Asset 1 (Solutions)</option>
+            <option value="ai_asset2">AI Asset 2 (Tools &amp; Scripts)</option>
+            <option value="ai_asset3">AI Asset 3 (Case-Based-Assets)</option>
+            <option value="ai_asset4">AI Asset 4 (Accelerators)</option>
+            <option value="ai_asset5">AI Asset 5 (Playbooks)</option>
+            <option value="ai_asset6">AI Asset 6 (Dashboards)</option>
         </optgroup>
         <optgroup label="Non AI Assets">
-            <option value="non_ai_asset1">Non AI Asset 1</Solutions>
-            <option value="non_ai_asset2">Non AI Asset 2</Tools & Scripts>
-            <option value="non_ai_asset3">Non AI Asset 3</Case-Based-Assets>
-            <option value="non_ai_asset4">Non AI Asset 4</Accelerators>
-            <option value="non_ai_asset5">Non AI Asset 5</Playbooks>
-            <option value="non_ai_asset6">Non AI Asset 6</Dashboards>
+            <option value="non_ai_asset1">Non AI Asset 1 (Solutions)</option>
+            <option value="non_ai_asset2">Non AI Asset 2 (Tools &amp; Scripts)</option>
+            <option value="non_ai_asset3">Non AI Asset 3 (Case-Based-Assets)</option>
+            <option value="non_ai_asset4">Non AI Asset 4 (Accelerators)</option>
+            <option value="non_ai_asset5">Non AI Asset 5 (Playbooks)</option>
+            <option value="non_ai_asset6">Non AI Asset 6 (Dashboards)</option>
         </optgroup>
     </select>
