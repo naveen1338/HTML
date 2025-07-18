@@ -1,0 +1,11 @@
+<label for="assets">Choose an asset type:</label>
+    <select name="assets" id="assets">
+        <optgroup label="AI Assets">
+            <option value="ai_asset1">AI Asset 1</option>
+            <option value="ai_asset2">AI Asset 2</option>
+        </optgroup>
+        <optgroup label="Non AI Assets">
+            <option value="non_ai_asset1">Non AI Asset 1</option>
+            <option value="non_ai_asset2">Non AI Asset 2</option>
+        </optgroup>
+    </select>
